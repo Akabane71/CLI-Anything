@@ -494,6 +494,20 @@
       "category": "gamedev",
       "contributor": "omerarslan0",
       "contributor_url": "https://github.com/omerarslan0"
+    },
+    {
+      "name": "dify-workflow",
+      "display_name": "Dify Workflow",
+      "version": "0.1.0",
+      "description": "Create, edit, validate, layout, and export Dify workflow DSL files — supports all 5 app types (Workflow, Chatflow, Chat, Agent, Completion)",
+      "requires": null,
+      "homepage": "https://dify.ai",
+      "install_cmd": "pip install git+https://github.com/HKUDS/CLI-Anything.git#subdirectory=dify-workflow/agent-harness",
+      "entry_point": "cli-anything-dify-workflow",
+      "skill_md": "dify-workflow/agent-harness/cli_anything/dify_workflow/skills/SKILL.md",
+      "category": "ai",
+      "contributor": "Akabane71",
+      "contributor_url": "https://github.com/Akabane71"
     }
   ]
 }

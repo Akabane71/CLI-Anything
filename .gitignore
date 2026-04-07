@@ -82,6 +82,7 @@
 !/rms/
 !/renderdoc/
 !/cloudcompare/
+!/dify-workflow/
 
 # Step 5: Inside each software dir, ignore everything (including dotfiles)
 /gimp/*
